@@ -1,0 +1,22 @@
+body{
+    background-color:darkblue ;
+    padding: 30px;
+    color: rgb(223, 215, 105);
+    opacity: 0.9;
+    text-align: center;
+    border: 5px antiquewhite solid;
+    margin: 30px;
+}
+a:link{
+    color: white;
+}
+a:visited{
+  color:white;
+}
+
+a:hover{
+ color: black;
+}
+a:active{
+    color: aqua;
+ }

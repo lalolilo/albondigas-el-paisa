@@ -1,0 +1,29 @@
+body{
+    background-image:url('bandeja.png') ;
+ background-size: cover;
+ background-color: rgb(255,127,80);
+ opacity: 0,8;
+ /* background-image: url('bandeja.png');
+ background-size: cover; */  
+   
+  }
+#links{
+    background-color: rgb( 255,127,80);
+    opacity: 0.8;
+    text-align: center;
+    border: 5px antiquewhite solid;
+    
+
+}
+#texto{
+    padding: 30px;
+    color: antiquewhite;
+    background-color: chocolate;
+    opacity: 0.9;
+    text-align: center;
+    border: 5px antiquewhite solid;
+    margin: 30px;
+    
+  
+
+}
